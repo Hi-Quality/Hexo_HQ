@@ -1,0 +1,4 @@
+# Inject the css and script (aplayer/meting)
+aplayerInject:
+  enable: true # 开启音乐播放器
+  per_page: true #每个页面都有Aplayer
